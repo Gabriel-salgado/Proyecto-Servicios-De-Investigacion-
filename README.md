@@ -4,4 +4,5 @@
 ## Integrantes
 
 - Juan Gabriel Salgado Bolaño
+- Alejandro Ávila Buelvas
 
